@@ -1,0 +1,74 @@
+body{
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #e9e7e5;
+	max-width: 1000px;
+}
+
+.border {
+  border: thick double black;
+  font: bold 30px "Verdant",Times New Roman;
+  text-align: center;
+  margin: 5px;
+  padding: 15px;
+  width: 90%;
+}
+
+.DW{
+	background-color:#e9e5e5;
+}
+.Data{
+	font-weight: bold;
+	font-family: "Times New Roman", Arial;
+	font-size: 12px;
+	padding-top: 2px;
+}
+
+.Conclusion{
+	font-weight: bold;
+	font-family: "Times New Roman", Arial;
+	font-size: 12px;
+	padding-top: 2px;
+}
+
+
+img{
+	width: 100%;
+}
+
+.photo-caption{
+	font-size: 14px;
+	line-height: 17px;
+	font-family: "Times New Roman", Arial;
+	margin-top: 0px;
+	color: #666666;
+
+}
+
+a{
+	color: #4682B4;
+}
+
+.Story-header{
+    font-family:"Times New Roman", Arial;
+    font-size: 12px;
+    padding-top: 10px;
+}
+
+.Subheading{
+	padding-top: 0px;
+	font-family: "Times New Roman", Arial;
+	font-size: 18px;
+}
+
+.Byline{
+	font-family: "Times New Roman", Arial;
+	font-size: 16px;
+	font-style: italic;
+}
+
+.Story-body{
+	font-family: "Times New Roman", Arial;
+	font-size: 18px;
+	margin-top: 0px;
+}
